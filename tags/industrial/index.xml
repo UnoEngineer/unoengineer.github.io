@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industrial | Alex Fernandes</title>
+    <link>http://unoengineer.com/tags/industrial/</link>
+      <atom:link href="http://unoengineer.com/tags/industrial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Industrial</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Industrial</title>
+      <link>http://unoengineer.com/tags/industrial/</link>
+    </image>
+    
+    <item>
+      <title>Comtech Frequency Converter</title>
+      <link>http://unoengineer.com/project/comtech_cs4400/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://unoengineer.com/project/comtech_cs4400/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GE MDS Master Station</title>
+      <link>http://unoengineer.com/project/gemds_master/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://unoengineer.com/project/gemds_master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDS SD Radio</title>
+      <link>http://unoengineer.com/project/gemds_remote/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://unoengineer.com/project/gemds_remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDS WiYZ Mesh Radio</title>
+      <link>http://unoengineer.com/project/gemds_wiyz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://unoengineer.com/project/gemds_wiyz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
