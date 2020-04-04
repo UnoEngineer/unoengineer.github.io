@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Comtech Frequency Converter</title>
+      <title>Frequency Converter</title>
       <link>http://unoengineer.com/project/comtech_cs4400/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://unoengineer.com/project/comtech_cs4400/</guid>
@@ -61,7 +61,7 @@
     </item>
     
     <item>
-      <title>MDS SD Radio</title>
+      <title>MDS SD4 &amp; SD9 Radio</title>
       <link>http://unoengineer.com/project/gemds_remote/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://unoengineer.com/project/gemds_remote/</guid>
@@ -81,6 +81,14 @@
       <link>http://unoengineer.com/project/unikey_omniassure/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://unoengineer.com/project/unikey_omniassure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniKey PbU Module</title>
+      <link>http://unoengineer.com/project/unikey_pbu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://unoengineer.com/project/unikey_pbu/</guid>
       <description></description>
     </item>
     

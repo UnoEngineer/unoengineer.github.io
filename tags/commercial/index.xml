@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Comtech Frequency Converter</title>
+      <title>Frequency Converter</title>
       <link>http://unoengineer.com/project/comtech_cs4400/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://unoengineer.com/project/comtech_cs4400/</guid>
@@ -33,6 +33,14 @@
       <link>http://unoengineer.com/project/unikey_omniassure/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>http://unoengineer.com/project/unikey_omniassure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniKey PbU Module</title>
+      <link>http://unoengineer.com/project/unikey_pbu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://unoengineer.com/project/unikey_pbu/</guid>
       <description></description>
     </item>
     
